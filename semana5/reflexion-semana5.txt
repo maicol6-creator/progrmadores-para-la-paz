@@ -1,0 +1,8 @@
+Las APIs permiten que diferentes sistemas se comuniquen de manera organizada. 
+En una comunidad, esto significa que la información puede fluir de forma rápida y segura. 
+Por ejemplo, una API puede recibir reportes de los ciudadanos y almacenarlos en una base de datos central. 
+Esto evita que los mensajes se pierdan y facilita que los responsables los atiendan. 
+Además, las APIs permiten estandarizar el formato de los datos, lo que mejora la claridad. 
+Con ellas, las alertas pueden enviarse en tiempo real a quienes las necesitan. 
+También ayudan a que las aplicaciones móviles y páginas web trabajen juntas. 
+En conclusión, las APIs fortalecen la participación y la cultura de paz al dar orden y transparencia a la comunicación comunitaria.

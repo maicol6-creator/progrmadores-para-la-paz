@@ -1,0 +1,6 @@
+La ruta POST /reporte recibe datos enviados por el usuario en el cuerpo de la solicitud. 
+En este caso, espera un campo llamado "mensaje" y responde con un objeto JSON que confirma la recepción.
+
+En una aplicación comunitaria podría servir para que los usuarios envíen reportes, alertas o comentarios. 
+Por ejemplo, reportar un problema en el barrio, enviar una sugerencia o registrar una incidencia. 
+De esta manera, la comunidad puede organizar la información y los administradores pueden gestionarla de forma clara.
