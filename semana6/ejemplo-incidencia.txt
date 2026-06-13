@@ -1,0 +1,9 @@
+Ejemplo de JSON para la ruta /incidencia
+
+{
+  "tipo": "Iluminación pública",
+  "descripcion": "La comunidad reporta que una lámpara del parque no funciona desde hace varios días."
+}
+
+Explicación:
+Este JSON simula cómo un ciudadano puede enviar un reporte estructurado de una incidencia comunitaria. El servidor responde confirmando que la incidencia fue registrada.

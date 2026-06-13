@@ -1,0 +1,12 @@
+Prueba de la ruta GET /reportes
+
+Después de enviar un reporte con POST, al consultar la ruta GET /reportes el servidor devuelve un arreglo con los reportes registrados.
+
+Ejemplo de respuesta:
+[
+  {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público"
+  }
+]

@@ -1,0 +1,19 @@
+Prueba de la ruta /registro
+
+Petición enviada:
+POST http://localhost:3000/registro
+Body:
+{
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}
+
+Respuesta del servidor:
+{
+  "estado": "Datos recibidos",
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}
+
+Explicación:
+El servidor recibe los datos enviados en formato JSON, los procesa con express.json() y devuelve un objeto confirmando que la información fue recibida correctamente.

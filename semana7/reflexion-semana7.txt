@@ -1,0 +1,8 @@
+Las comunidades necesitan herramientas tecnológicas para registrar y consultar reportes. 
+Esto permite que los problemas se documenten de manera clara y organizada. 
+Al tener un sistema de reportes, los ciudadanos pueden participar activamente en la solución de incidencias. 
+La información se centraliza y se evita que los mensajes se pierdan. 
+Además, los administradores pueden atender los casos con mayor rapidez. 
+Un sistema de reportes fomenta la transparencia y la confianza en la gestión comunitaria. 
+También ayuda a priorizar las necesidades más urgentes. 
+En conclusión, las APIs y los arrays en memoria son un primer paso para construir plataformas que fortalezcan la participación ciudadana.
