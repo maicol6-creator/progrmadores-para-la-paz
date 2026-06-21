@@ -1,0 +1,5 @@
+1. No exponer datos personales.
+2. Proteger credenciales de acceso.
+3. Usar conexiones seguras (HTTPS, VPN).
+4. Registrar accesos y monitorear actividad.
+5. Limitar acceso a información sensible según roles.

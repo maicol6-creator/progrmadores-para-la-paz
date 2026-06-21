@@ -1,0 +1,10 @@
+Las plataformas comunitarias necesitan servidores estables y seguros porque son el medio 
+para que la información fluya de manera confiable.
+Si un servidor falla, la comunidad pierde acceso a datos importantes y se afecta
+la confianza en la tecnología. La estabilidad garantiza que los servicios estén disponibles
+en todo momento, mientras que la seguridad protege credenciales y reportes sensibles.
+Los logs permiten detectar problemas y corregirlos a tiempo.
+En entornos comunitarios, un servidor confiable es más que una herramienta
+técnica: es un compromiso ético con la participación y la transparencia.
+ Por eso, aprender a configurar y mantener servidores básicos es fundamental
+  para fortalecer la autonomía digital de las comunidades.

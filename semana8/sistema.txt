@@ -1,0 +1,5 @@
+Comando uname -a:
+Muestra información del sistema operativo, kernel y arquitectura. Es útil para conocer la versión de Linux y detalles técnicos al administrar un servidor.
+
+Comando whoami:
+Indica el usuario actual de la sesión. Es importante para verificar permisos y roles en la administración de sistemas.
