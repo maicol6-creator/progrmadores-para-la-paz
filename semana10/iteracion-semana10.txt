@@ -1,0 +1,11 @@
+Tareas iniciales:
+- Registrar incidencia ciudadana.
+- Recibir alerta en Telegram.
+
+Razón:
+Son las más importantes porque permiten iniciar el flujo de participación y garantizar que el equipo esté informado en tiempo real.
+
+Definición de terminado:
+- Funciona correctamente.
+- Fue probada con un caso de ejemplo.
+- Quedó registrada en GitHub con evidencia.
