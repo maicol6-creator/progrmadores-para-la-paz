@@ -1,0 +1,11 @@
+Durante este curso aprendí que la tecnología puede ser una herramienta poderosa para fortalecer 
+la participación ciudadana y la organización comunitaria.
+Al integrar bases de datos, automatización y generación de documentos, se facilita
+que las comunidades organicen causas y exijan respuestas de manera transparente.
+La plataforma “Petición en 3 Clics” demuestra que un sistema sencillo puede tener 
+gran impacto social, porque permite registrar apoyos y convertirlos en documentos 
+formales que respaldan la exigibilidad democrática. También comprendí la importancia
+de proteger los datos personales y de usar la tecnología con responsabilidad, asegurando
+confianza y seguridad en cada proceso.
+Este aprendizaje me motiva a seguir creando soluciones tecnológicas con 
+sentido social y compromiso ciudadano.

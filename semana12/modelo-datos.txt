@@ -1,0 +1,15 @@
+Entidad: Causa
+- id: identificador único
+- titulo: nombre de la causa
+- descripcion: detalle de la causa
+- fecha: fecha de creación
+
+Entidad: Apoyo
+- id: identificador único
+- causa_id: referencia a la causa apoyada
+- nombre: ciudadano que apoya
+- fecha: fecha del apoyo
+
+Explicación:
+La entidad "Causa" almacena las iniciativas creadas por la comunidad.
+La entidad "Apoyo" registra cada respaldo ciudadano vinculado a una causa específica.
